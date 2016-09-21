@@ -1,0 +1,9 @@
+c:\users\mir\documents\visual studio 2015\Projects\PingScanner\PingScanner\bin\Debug\PingScanner.exe.config
+c:\users\mir\documents\visual studio 2015\Projects\PingScanner\PingScanner\bin\Debug\PingScanner.exe
+c:\users\mir\documents\visual studio 2015\Projects\PingScanner\PingScanner\bin\Debug\PingScanner.pdb
+c:\users\mir\documents\visual studio 2015\Projects\PingScanner\PingScanner\obj\Debug\PingScanner.csprojResolveAssemblyReference.cache
+c:\users\mir\documents\visual studio 2015\Projects\PingScanner\PingScanner\obj\Debug\PingScanner.Form1.resources
+c:\users\mir\documents\visual studio 2015\Projects\PingScanner\PingScanner\obj\Debug\PingScanner.Properties.Resources.resources
+c:\users\mir\documents\visual studio 2015\Projects\PingScanner\PingScanner\obj\Debug\PingScanner.csproj.GenerateResource.Cache
+c:\users\mir\documents\visual studio 2015\Projects\PingScanner\PingScanner\obj\Debug\PingScanner.exe
+c:\users\mir\documents\visual studio 2015\Projects\PingScanner\PingScanner\obj\Debug\PingScanner.pdb
